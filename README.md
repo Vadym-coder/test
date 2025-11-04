@@ -5,11 +5,11 @@ This project aims to make fun of you, that was a joke. This is a joke README, so
 
 ## Authors
 
-Made by
+Made by:
 - Me
-Produced by
+Produced by:
 - Me
-Sponsored by
+Sponsored by:
 - Not me
 ## Support
 
